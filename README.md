@@ -1,5 +1,6 @@
 # cv-web-site
-CV en formato web
+La idea era crear un sito web con mi experiencia laboral, hobbies, estudios etc. 
+Tiempo de desarrollo: 8hrs
 
 Aprendí lo siguiente: 
 
