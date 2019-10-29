@@ -8,3 +8,5 @@ Aprendí lo siguiente:
 - html avanzado
 - css intermedio
 - diseño web moderno
+
+link: https://tonycpp.github.io/cv-web-site/
